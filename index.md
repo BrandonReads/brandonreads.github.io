@@ -32,5 +32,6 @@ Click on the titles below for the show notes.
 |No.      | Title                           |
 |---------|---------------------------------|
 | 1       | How Did I Get Here?<br>BONUS: The Age of Discovery (Librivox)            |
-| 2       | Some other topic<br>BONUS: War and Peace (Librivox)                            |
+| 2       | The 5 People You Help As a Reader |
+| 3       | Some other topic<br>BONUS: War and Peace (Librivox)                            |
 |---------|---------------------------------|
