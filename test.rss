@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Brandon Reads</title>
+  <link>https://brandonreads.github.io</link>
+  <description>Greetings! Please join me as I share my journey of discovery, reflection, and growth as a volunteer reader for LibriVox. Through stories, commentary, and practical tips gleaned from my own experiences, each episode offers a glimpse into the joys and challenges that arise from immersing oneself in the timeless tales of the past.</description>
+  <itunes:image href="https://brandonreads.github.io/assets/img/cover.png"/>
+  <itunes:author>Brandon Brinkley</itunes:author>
+  <itunes:type>serial</itunes:type>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <language>en</language>
+  <item>
+    <title>So It Begins...</title>
+    <description>They say that a journey of a thousand miles begins with a single step. This is my first adventure in the realm of podcasting. In this episode I explain how I got started with Librivox and what value I hope to bring to you in this podcast.</description>
+    <pubDate>Fri, 15 Mar 2024 12:00:00 GMT</pubDate>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://brandonreads.github.io/1WZS12XC5BEAYZW3TKXGMKTXWB0V842G/BR.001.mp3" type="audio/mpeg" length="312144"/>
+    <itunes:duration>5:12</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+    <podcast:chapters url="https://brandonreads.github.io/001/episode.chapters.json" type="application/json+chapters" />
+  </item>
+  <item>
+    <title>The Era of Discovery (Librivox)</title>
+    <description>This is a short recording I made in early 2024. It's a summary of early European exploration in North America taken from the <i>Lectures on the Harvard Classics</i>. I have included it here as a bonus episode as an example of what a typical Librivox recording sounds like.</description>
+    <link>https://librivox.org/lectures-on-the-harvard-classics-by-charles-william-eliot</link>
+    <itunes:image href="https://archive.org/download/lecturesharvardclassics_2403_librivox/lecturesharvardclassics_2403.jpg" />
+    <pubDate>Fri, 15 Mar 2024 12:00:00 GMT</pubDate>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>bonus</itunes:episodeType>
+    <enclosure url="https://www.archive.org/download/lecturesharvardclassics_2403_librivox/lecturesharvardclassics_54_eliot_64kb.mp3" type="audio/mpeg" length="619337"/>
+    <itunes:duration>10:19</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  </item>
+</channel>
+</rss>
